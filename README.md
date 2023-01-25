@@ -6,7 +6,7 @@ Welcome to NextApp Pricing UI With Chakra UI.
 
 Check on Vercel.
 
-https://pricing-ui-beta.vercel.app/
+https://pricing-ui-chakra-custom.vercel.app/
 
 # Folder Directory 
 
